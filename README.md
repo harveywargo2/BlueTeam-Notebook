@@ -1,2 +1,2 @@
 # BlueTeam-Notebook
-Public Collection of Notes
+Public Collection of Obsidian Notes in Markdown 
