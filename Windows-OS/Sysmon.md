@@ -42,8 +42,6 @@ C:\windows\System32\winevt\Logs
 - 23 File Delete
 
 
-
-
 # EID 1 Process Creation 
 - https://redcanary.com/blog/process-creation/?utm_source=redcanary&utm_medium=email&utm_campaign=Blog%20Digest-2022-09-16T09:00:08.771-06:00&mkt_tok=MDAzLVlSVS0zMTQAAAGG5c5a32ZfmdA5j55vz7pxKxxWZ8HrKbyzA1cz_NQSj-sqlUSdlNviBYBwUwDnipyLvfUHcxW_u7O2qDdP76Ast2jIwJ2YnET7V_8JuNJWmA
 - https://www.gravwell.io/blog/sysmon-event-pt.-1-process-creation
