@@ -1,4 +1,4 @@
-# References 
+# References & Training
 - https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference
 - https://github.com/rod-trent/AddictedtoKQL
 - https://github.com/rod-trent/MustLearnKQL
