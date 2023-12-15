@@ -1,1 +1,0 @@
-# KQL Guide & Notes 

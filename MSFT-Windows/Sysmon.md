@@ -47,6 +47,7 @@ C:\windows\System32\winevt\Logs
 - https://www.gravwell.io/blog/sysmon-event-pt.-1-process-creation
 - https://ossemproject.com/dd/dictionaries/linux/sysmon/event-1.html
 - https://github.com/trustedsec/SysmonCommunityGuide/blob/master/chapters/process-creation.md
+- 
 
 #### Key Fields
 | SysmonEID.1       | M365D.DeviceProcessEvents                                   | WinSec.4688        |
