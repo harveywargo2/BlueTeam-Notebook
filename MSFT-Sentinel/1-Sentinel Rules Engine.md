@@ -16,6 +16,9 @@
 
 ## Entities 
 - https://learn.microsoft.com/en-us/azure/sentinel/map-data-fields-to-entities
+- https://learn.microsoft.com/en-us/azure/sentinel/entities-reference
+- https://learn.microsoft.com/en-us/azure/sentinel/entities
+- https://learn.microsoft.com/en-us/azure/sentinel/map-data-fields-to-entities
 
 ## Customization
 - https://learn.microsoft.com/en-us/azure/sentinel/surface-custom-details-in-alerts
